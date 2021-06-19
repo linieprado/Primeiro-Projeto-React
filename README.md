@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+![Reprograma Logo](https://www.reprograma.com.br/assets/img/logo-fundoclaro.png)
+# _TodasEmTech <span style= "color:purple">{REPROGRAMA}</span>_ :purple_heart:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub watchers](https://img.shields.io/github/watchers/linieprado/workshopReprograma?style=social)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FReprogramaBr) ![GitHub forks](https://img.shields.io/github/forks/linieprado/workshopReprograma?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/linieprado/workshopReprograma?style=social) ![GitHub](https://img.shields.io/github/license/linieprado/workshopReprograma) 
 
-## Available Scripts
+REACT DO ZERO - Turma On10 💜
 
-In the project directory, you can run:
+## :clipboard: _Sobre o Projeto_
 
-### `npm start`
+Meu Primeiro Projeto React do Zero...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Foi muito tenso e doloroso, passar por esse caminho, pensei em desistir, não entregar, duas semanas assistindo e reassistndo as aula da Professora Maravilhosa [Simara Conceição](https://github.com/simaraconceicao).💜
+Enfim saiu o primeiro projetinho react. :woman_technologist: :raising_hand:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :pushpin: _Passo a passo_
 
-### `npm run build`
+Passo a passo do projeto, seguindo as orientações da Prof. Simara Conceição:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Criei um projeto react;
+2. Apaguei as informações default;
+3. Criei e exportei um arquivo que simula um JSON;
+4. Criei um componente título que recebe o texto: "Meu Primeiro Projeto React do Zero" por props;
+5. Crie um outro componente que mapeia os dados do arquivo que simula o JSON e retorna em elementos renderizados na tela. Os dados devem conter 4 chaves e valores: id, nome, descrição e imagem, com o nome "Flores".
+6. E importei no App.js.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :hammer_and_wrench: _Tecnologias_
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* HTML
+* CSS
+* JAVASCRIPT
+* REACT
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :computer: _Como executar_
 
-## Learn More
+#### Pré-requisitos
+Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas [Git](https://git-scm.com/), e um editor para trabalhar com o código como o [Vscode](https://code.visualstudio.com/).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Rodando a aplicação 
+1. Clone este repositório
+2. Acesse a pasta do projeto no seu terminal/cmd
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## :globe_with_meridians: _Visualizar Página WeB_
 
-### Analyzing the Bundle Size
+Preview do Site [My First Page](https://alineprado.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## :woman_technologist: _Super Dev_
 
-### Advanced Configuration
+* [<img src="https://avatars.githubusercontent.com/u/79236944?s=400&u=115f3265d9e8d1c3a11a7a1aeb0ade7f6f15f577&v=4" width=115 > <br> <sub> Aline Prado </sub>](https://github.com/linieprado) 
+* [Instagram] (https://www.instagram.com/linieprado/?hl=pt-br)
+* [Linkedin] (https://www.linkedin.com/in/alinepradosilva/)
+* [Twitter] (https://twitter.com/LiniePrados)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+| :---: | 
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
